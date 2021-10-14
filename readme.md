@@ -1,0 +1,1 @@
+Esse projeto foi criado no intuito de resolver um problema proprosto em um treinamento dado pela equipe de DEVS da empresa FastCash local onde atualmente eu trabalho como analista transacional
